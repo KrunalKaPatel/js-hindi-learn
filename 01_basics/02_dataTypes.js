@@ -7,7 +7,7 @@ console.log("Krunal");
 
 
 let name = "Krunal" // srting datatype
-let age = 18 // int datatype
+let age = 18 // number datatype
 let isLoggedIn = false // boolean datatype
 
 
